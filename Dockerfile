@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Paolo De Michele <docker@starase.com>
+MAINTAINER Paolo De Michele <paolo@starase.com>
 
 
 RUN apt-get update && apt-get upgrade -y
