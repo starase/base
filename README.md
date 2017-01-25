@@ -1,6 +1,3 @@
-# base
-Ubuntu 16.04 LTS base image with supervisor, vim, oh-my-zsh
-
 ## Basic Docker Container
 
 ### Disclaimer
