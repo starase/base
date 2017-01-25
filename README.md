@@ -9,7 +9,7 @@ This docker image is far from being truly persistent and docker-way. It is more 
 
 
 ### Supported tags and respective Dockerfile links
-I've worked to automate as soon this image using this [Dockerfile](https://github.com/starase/base)
+I've worked to automate this image using this [Dockerfile](https://github.com/starase/base)
 
 
 ### Details
